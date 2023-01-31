@@ -1,0 +1,31 @@
+
+#page-container {
+  	position: absolute;
+  	min-height: 275vh;
+}
+
+
+#content-wrap {
+  	padding-bottom: 2.5rem;
+}
+
+#footer {
+  	position: absolute;
+  	bottom: 0;
+	left: 0;
+  	width: 100%;
+  	height: 12rem;
+	background: #0B3948;
+	color: #D9DBF1;
+}
+	
+div.footerSeg{
+	width: 45%;
+	float: left;
+	padding: 10px;
+}
+
+a{
+	color: #ACB0BD;
+	text-decoration: none;
+}  
